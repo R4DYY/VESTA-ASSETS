@@ -1,0 +1,10 @@
+{
+  "name": "VESTA",
+  "symbol": "VSTA",
+  "description": "The official token of VESTA, premium crypto-native fashion brand.",
+  "image": "https://github.com/R4DYY/VESTA-ASSETS/blob/24c82317e9d739397f0090dbefd6381c371d23dd/LOGO.png?raw=true",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://vestaworld.store"
+  }
+}
